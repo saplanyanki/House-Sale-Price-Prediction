@@ -1,2 +1,3 @@
 # House-Sale-Price-Prediction
-STATS 380 - Project 1
+
+Belongs to Yanki Saplan - STATS 380 Project
